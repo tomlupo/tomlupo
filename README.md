@@ -37,7 +37,15 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/tomasz-wilczega)
 
 ## 🚀 Projects
-### Investment Apps: 
+### Quantitative Investing:
+Advanced tools developed to analyze and visualize investment plans and glide paths, aiding in better understanding and optimization of investment strategies.
+
+- **Investment Plans Glide Paths:** 
+   - **Description:** A tool providing visual representations of various investment plans glide paths.
+   - **Tech Used:** Python, Streamlit, GitHub 
+   - **Links:** [View on GitHub](https://github.com/tomlupo/glide_paths) | [View App](https://glide-paths-ccxwbsegftnugprwhdagms.streamlit.app/)
+
+### Web Design Apps: 
 Innovative applications focusing on enhancing investment strategies and providing user-friendly interfaces for investment selection and management.
 
 - **Investment Profile Selection App:** 
@@ -49,11 +57,3 @@ Innovative applications focusing on enhancing investment strategies and providin
    - **Description:** A prototype app designed to showcase potential investment app features and interfaces.
    - **Tech Used:** JavaScript, HTML, CSS 
    - **Link:** [View Project](http://investment-app.twilczega.repl.co)
-
-### Analytical Tools:
-Advanced tools developed to analyze and visualize investment plans and glide paths, aiding in better understanding and optimization of investment strategies.
-
-- **Investment Plans Glide Paths:** 
-   - **Description:** A tool providing visual representations of various investment plans glide paths.
-   - **Tech Used:** Python, Streamlit, GitHub 
-   - **Links:** [View on GitHub](https://github.com/tomlupo/glide_paths) | [View App](https://glide-paths-ccxwbsegftnugprwhdagms.streamlit.app/)
