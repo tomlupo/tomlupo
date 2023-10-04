@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - SQL
 - VBA
 - Git/GitHub
+- HTML/CSS/JavaScript
 
 🔭 **Vision:** Passionate about evolving the financial industry through innovative solutions and advanced quantitative techniques.
 
@@ -56,4 +57,4 @@ Innovative applications focusing on enhancing investment strategies and providin
 - **Investment App Prototype:** 
    - **Description:** A prototype app designed to showcase potential investment app features and interfaces.
    - **Tech Used:** JavaScript, HTML, CSS 
-   - **Link:** [View Project](http://investment-app.twilczega.repl.co)
+   - **Links:** [View on GitHub](https://github.com/tomlupo/investment_app) | [View App](https://investmentapp.twilczega.repl.co)
