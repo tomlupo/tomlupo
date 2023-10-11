@@ -69,4 +69,4 @@ Innovative applications focusing on enhancing investment strategies and providin
       - Prototype showcasing cutting-edge design and interactivity for financial applications. This prototype demonstrates the user journey in setting financial goals, adjusting payment amounts, and seamlessly navigating through the app. A perfect blend of minimalist design and user-centered interactions.
       - Investment profile cards designed to capture risk levels, growth predictions, and more. It's a creative exploration into how information can be visually represented for potential investors, ensuring readability, appeal, and comprehensive understanding at a glance.
    - **Tech Used:** JavaScript, Bootstrap, HTML, CSS, Font Awesome
-   - **Link:** [View App](https://bootstrap-playground-investment-app-design.twilczega.repl.co) | [View Card](bootstrap-playground-card-design.twilczega.repl.co)
+   - **Link:** [View App](https://bootstrap-playground-investment-app-design.twilczega.repl.co) | [View Card](https://bootstrap-playground-card-design.twilczega.repl.co)
