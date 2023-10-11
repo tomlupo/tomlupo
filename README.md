@@ -64,7 +64,7 @@ Innovative applications focusing on enhancing investment strategies and providin
    - **Tech Used:** JavaScript, HTML, CSS, Bootstrap
    - **Link:** [View App](https://goal-based-investing-single-screen-calculator.twilczega.repl.co/) 
 
-- ** Design Playground:**
+- **Design Playground:**
    - **Description:**
       - Prototype showcasing cutting-edge design and interactivity for financial applications. This prototype demonstrates the user journey in setting financial goals, adjusting payment amounts, and seamlessly navigating through the app. A perfect blend of minimalist design and user-centered interactions.
       - Investment profile cards designed to capture risk levels, growth predictions, and more. It's a creative exploration into how information can be visually represented for potential investors, ensuring readability, appeal, and comprehensive understanding at a glance.
