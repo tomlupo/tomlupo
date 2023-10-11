@@ -52,9 +52,21 @@ Innovative applications focusing on enhancing investment strategies and providin
 - **Investment Profile Selection App:** 
    - **Description:** A dynamic app featuring a Netflix carousel slider for intuitive investment profile selection.
    - **Tech Used:** JavaScript, HTML, CSS 
-   - **Link:** [View Project](https://netflix-slider.twilczega.repl.co/)
+   - **Link:** [View App](https://netflix-slider.twilczega.repl.co/)
 
 - **Investment App Prototype:** 
-   - **Description:** A prototype app designed to showcase potential investment app features and interfaces.
+   - **Description:** A prototype app designed to showcase potential investment app features and interfaces,  integrated with a basic backend system.
    - **Tech Used:** JavaScript, HTML, CSS 
    - **Links:** [View on GitHub](https://github.com/tomlupo/investment_app) | [View App](https://investmentapp.twilczega.repl.co)
+ 
+- **Investment Goal Planner:**
+   - **Description:** An interactive screen that allows users to set financial goals, customize their initial payment, target amount, and desired date of achievement. The app also provides various investment plans tailored to different risk levels, complete with detailed insights, forecasts, and advantages. Inspired by Google Flights interface.
+   - **Tech Used:** JavaScript, HTML, CSS, Bootstrap
+   - **Link:** [View App](https://goal-based-investing-single-screen-calculator.twilczega.repl.co/) 
+
+- ** Design Playground:**
+   - **Description:**
+      - Prototype showcasing cutting-edge design and interactivity for financial applications. This prototype demonstrates the user journey in setting financial goals, adjusting payment amounts, and seamlessly navigating through the app. A perfect blend of minimalist design and user-centered interactions.
+      - Investment profile cards designed to capture risk levels, growth predictions, and more. It's a creative exploration into how information can be visually represented for potential investors, ensuring readability, appeal, and comprehensive understanding at a glance.
+   - **Tech Used:** JavaScript, Bootstrap, HTML, CSS, Font Awesome
+   - **Link:** [View App](https://bootstrap-playground-investment-app-design.twilczega.repl.co) | [View Card](bootstrap-playground-card-design.twilczega.repl.co)
