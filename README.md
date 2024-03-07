@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Tomasz Wilczega 👋
 
-🔍 **Position:** Portfolio Manager | Quantitative Analyst
+📈 **Quant Asset Manager**
 
 🌐 **BeGlobal Co-Creator:** Revolutionizing finance with Poland's first robo-advisor, making investment more accessible.
 
