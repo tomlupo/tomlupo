@@ -1,10 +1,13 @@
 # Tomasz Wilczega 👋
 
-**Quantitative Asset Manager | CFA | Quantitative Research & Investment Systems**
+**Quantitative Investing · AI Engineering**
 
-I build and run quantitative investment systems, with most of my work spanning research, portfolio construction, automation, and production implementation.
+I build quantitative investment systems and AI-powered tools for research, automation, and complex analytical workflows.
 
-Co-creator of [BeGlobal](https://beglobal.pl), Poland's first robo-advisor.
+My work spans two closely connected areas:
+
+- **Quantitative investing** — systematic strategies, portfolio construction, research infrastructure, and production implementation
+- **AI engineering** — agentic systems, automated research workflows, and tools for analytical work
 
 ---
 
@@ -16,29 +19,11 @@ Co-creator of [BeGlobal](https://beglobal.pl), Poland's first robo-advisor.
 
 ---
 
-### What I Work On
-
-- Quantitative research and systematic investing
-- Portfolio construction and investment systems
-- Research infrastructure and automation
-- AI-powered analytical workflows
-- Backtesting, deployment, and production research systems
-
----
-
 ### Projects
 
 Most of my quant work lives in private repos — no free alpha! 😄
 
 Feel free to explore the public repos for selected research, utilities, experiments, and tools I've open-sourced along the way. More coming soon.
-
----
-
-### Core Stack
-
-Python · NumPy · Polars · SciPy · Statsmodels · Scikit-learn · SQL · PostgreSQL · Jupyter · Git · Docker · CI/CD · MLflow · Plotly · Streamlit
-
-I also work with LLM APIs, agentic systems, and research automation where they improve analytical workflows.
 
 ---
 
