@@ -1,61 +1,48 @@
 # Tomasz Wilczega 👋
 
-Quantitative Asset Manager | CFA | Designing Investment Solutions
+**Quantitative Asset Manager | CFA | Quantitative Research & Investment Systems**
 
-10+ years designing, developing, and deploying quantitative solutions across buy-side, sell-side, and fintech. I bridge the gap between quantitative research and production systems — from alpha generation to automated execution.
+I’ve spent the last 10+ years developing quantitative investment solutions across asset management, investment banking, and fintech.
+
+My work sits between quantitative research, engineering, and implementation: designing systematic strategies and building the infrastructure to research, test, deploy, and run them in production.
+
+The same approach extends to AI-powered systems and automated workflows for research and other complex analytical work.
 
 Co-creator of [BeGlobal](https://beglobal.pl), Poland's first robo-advisor.
 
 ---
 
-### What I Do
+### House of Quants
 
-```
-Quantitative Research  →  Strategy Development  →  Production Systems  →  Automated Execution
-```
+**Quantitative Research & Solutions**
 
-I build end-to-end quantitative infrastructure: backtesting frameworks, forecasting models, portfolio optimization, and automated trading pipelines.
+House of Quants is my independent research project for publishing quantitative research, methodology, selected tools, and implementation-oriented ideas. Most production systems and proprietary research remain private.
 
 ---
 
-### Projects
+### What I Work On
 
-Most of my quant work lives in private repos — no free alpha! 😄
-
-Feel free to explore my public stuff. Some utilities, experiments, and tools I've open-sourced along the way. More coming soon.
-
----
-
-### Tech Stack
-
-Core Quant Development
-- Python, NumPy, Polars, SciPy, Statsmodels, Scikit-learn, XGBoost
-
-Data & Infrastructure
-- SQL, PostgreSQL, Jupyter, REST & WebSocket APIs
-
-Custom Research Infrastructure
-- Proprietary backtesting frameworks, simulation engines, signal pipelines
-
-Production & Automation
-- Git, Docker, CI/CD, Luigi, MLflow
-
-Visualization & Reporting
-- Plotly, Dash, Streamlit, automated HTML reporting
-
-AI-Assisted Development
-- LangChain, Claude API, agentic workflows, LLM-driven research automation
+- Quantitative research and systematic investing
+- Portfolio construction and investment systems
+- Research infrastructure and automation
+- AI-powered analytical workflows
+- Backtesting, deployment, and production research systems
 
 ---
 
-### Background
+### Public Work
 
-- Quantitative Solutions Architect @ BeGlobal / Rockbridge TFI
-- Portfolio Manager @ Rockbridge TFI — systematic fund strategies
-- Risk Manager @ ING Bank Śląski
-- Valuations @ Nomura, London — structured credit & exotic products
+Most of my production quant work lives in private repositories. Public repos contain selected research, utilities, experiments, and open-source tools.
 
-...and some other stops along the way :)
+House of Quants will be the main home for longer-form research and selected code.
+
+---
+
+### Core Stack
+
+Python · NumPy · Polars · SciPy · Statsmodels · Scikit-learn · SQL · PostgreSQL · Jupyter · Git · Docker · CI/CD · MLflow · Plotly · Streamlit
+
+I also work with LLM APIs, agentic systems, and research automation where they improve analytical workflows.
 
 ---
 
