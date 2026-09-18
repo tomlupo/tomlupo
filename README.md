@@ -15,7 +15,7 @@ My work spans two closely connected areas:
 
 **Quantitative Research & Solutions**
 
-[House of Quants](https://github.com/tomlupo/house-of-quants) is where I publish selected research notes, methods, tools, and implementation ideas outside my day-to-day work.
+[House of Quants](https://tomlupo.github.io/house-of-quants/) is where I publish selected research notes, methods, tools, and implementation ideas outside my day-to-day work.
 
 ---
 
