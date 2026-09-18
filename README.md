@@ -2,11 +2,7 @@
 
 **Quantitative Asset Manager | CFA | Quantitative Research & Investment Systems**
 
-I’ve spent the last 10+ years developing quantitative investment solutions across asset management, investment banking, and fintech.
-
-My work sits between quantitative research, engineering, and implementation: designing systematic strategies and building the infrastructure to research, test, deploy, and run them in production.
-
-The same approach extends to AI-powered systems and automated workflows for research and other complex analytical work.
+I build and run quantitative investment systems, with most of my work spanning research, portfolio construction, automation, and production implementation.
 
 Co-creator of [BeGlobal](https://beglobal.pl), Poland's first robo-advisor.
 
@@ -16,7 +12,7 @@ Co-creator of [BeGlobal](https://beglobal.pl), Poland's first robo-advisor.
 
 **Quantitative Research & Solutions**
 
-House of Quants is my independent research project for publishing quantitative research, methodology, selected tools, and implementation-oriented ideas. Most production systems and proprietary research remain private.
+[House of Quants](https://github.com/tomlupo/house-of-quants) is where I publish selected research notes, methods, tools, and implementation ideas outside my day-to-day work.
 
 ---
 
@@ -30,11 +26,11 @@ House of Quants is my independent research project for publishing quantitative r
 
 ---
 
-### Public Work
+### Projects
 
-Most of my production quant work lives in private repositories. Public repos contain selected research, utilities, experiments, and open-source tools.
+Most of my quant work lives in private repos — no free alpha! 😄
 
-House of Quants will be the main home for longer-form research and selected code.
+Feel free to explore the public repos for selected research, utilities, experiments, and tools I've open-sourced along the way. More coming soon.
 
 ---
 
